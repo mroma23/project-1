@@ -1,7 +1,20 @@
 /* Place CSS styles here */
 body {
-    color: rgb(5, 5, 50);
-    background-color:rgb(71, 202, 143);
+    color: rgb(28, 1, 20);
+    background-color:rgb(246, 190, 213);
     font-family: "Kadwa", serif; 
+    text-align: center;
+  
 }
-p {color: rgb(8, 3, 42);}
+
+p {color: rgb(76, 2, 47);}
+
+.ingredients{
+    padding-left: 30px;
+    text-align: left;
+   display:inline-block
+   
+}
+header{
+    color: rgb(235, 44, 76);
+    font-family: "DynaPuff", serif;
